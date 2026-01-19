@@ -36,3 +36,7 @@ Database: MySQL /SQL / H2
 Reporting:iText / Apache POI
 
 Testing: JUnit 5
+
+📂 Project Structure
+<img width="517" height="751" alt="Screenshot 2026-01-19 233920" src="https://github.com/user-attachments/assets/c498a905-d93f-4b8d-9b2e-d84dfe76d6ca" />
+
